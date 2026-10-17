@@ -64,7 +64,7 @@ On Windows PowerShell:
 ### 4. Install Dependencies
 
 ```bash
-pip install django
+pip install -r requirements.txt
 ```
 
 Install any additional Python packages required by the project.
